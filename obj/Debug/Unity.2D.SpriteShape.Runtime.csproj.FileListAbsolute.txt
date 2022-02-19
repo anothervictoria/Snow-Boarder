@@ -1,0 +1,2 @@
+/Users/ilialataria/Projects/SnowBoarder/obj/Debug/Unity.2D.SpriteShape.Runtime.csproj.CoreCompileInputs.cache
+/Users/ilialataria/Projects/SnowBoarder/obj/Debug/Unity.2D.SpriteShape.Runtime.csproj.AssemblyReference.cache

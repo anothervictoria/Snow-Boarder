@@ -1,0 +1,2 @@
+/Users/ilialataria/Projects/SnowBoarder/obj/Debug/Unity.2D.Animation.Runtime.csproj.AssemblyReference.cache
+/Users/ilialataria/Projects/SnowBoarder/obj/Debug/Unity.2D.Animation.Runtime.csproj.CoreCompileInputs.cache
